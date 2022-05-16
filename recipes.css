@@ -1,0 +1,17 @@
+*{
+    background-color: antiquewhite;
+}
+#title {
+    font-size: 50px;    
+    text-align: center;
+}
+
+ul li{
+    background-color: aqua;
+}
+
+img {
+    height: auto;
+    width: 300px;
+    text-align: center;
+}
