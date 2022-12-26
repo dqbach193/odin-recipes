@@ -1,0 +1,15 @@
+*{
+    background-color: bisque;
+}
+
+#header{
+    color: rgb(255, 17, 17);
+    background-color: rgb(144, 229, 255);
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.recipes{
+    font-size: 30px;
+}
